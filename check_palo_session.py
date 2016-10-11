@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #
-# Author: Ryan Ratkiewicz (<ryan@ryanrat.com>)
+# Author: Ryan Ratkiewicz (<ryan ATSIGN ryanrat.com>)
 # check_palo_session.py
 # Last-Modified:  2015-12-23
 #
